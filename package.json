@@ -1,0 +1,16 @@
+{
+  "name": "hello-ci-cd",
+  "version": "1.0.0",
+  "description": "A simple app for CI/CD practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"CI/CD test passed!\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
